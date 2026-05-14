@@ -37,14 +37,14 @@ h1{
     margin: 10px 0;
     text-decoration: none;
     border-radius: 10px;
-    font-weight: 600px;
+    font-weight: 600;
     transition: all 0.3s;
     text-align: center;
 }
 
 .link-gomb:hover{
     background-color: #bc13fe;
-    color: 000;
+    color: #000;
     transform: scale(1.05);
     box-shadow: 0 0 15px #bc13fe;
 }
@@ -61,11 +61,11 @@ h1{
 
 .profil-kartya{
     background-color: #1f1f1f;
-    width:min(380px 90%);
+    width:min(380px, 90%);
     padding: 50px;
     border-radius: 20px;
     text-align: center;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5)
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
 }
 .profil-kontener{
     display: flex;
