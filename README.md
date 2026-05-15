@@ -10,4 +10,4 @@ https://fokasdev.github.io/profil-card/
 * CSS3
 
 ## 📸 Preview
-![Screenshot of the project](link-egy-keprol-ha-van)
+![Screenshot of the project](https://github.com/fokasdev/profil-card/blob/main/Képernyőkép%202026-05-15%20193706.png)
