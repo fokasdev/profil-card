@@ -3,7 +3,7 @@
 This is a simple, responsive profile card project created to practice core Frontend skills.
 
 ## 🚀 Demo
-https://fokasdev.github.io/profil-card/****
+https://fokasdev.github.io/profil-card/
 
 ## 🛠️ Built With
 * HTML5
